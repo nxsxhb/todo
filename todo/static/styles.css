@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(61, 139, 118);
+    width: 100%;
+    height: 150px;
+    margin-bottom: 50px;
+}
+
+.header-text{
+text-align: center;
+padding-top: 50px;
+}
+
+.col-md-6>h4 {
+    margin-bottom: 20px;
+}
